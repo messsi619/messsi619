@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @messsi619
 - 👀 I’m interested in coding and football
-- 🌱 I’m currently learning TS and Linux
+- 🌱 I’m currently learning TS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email-address: 2365524806@qq.com
 
